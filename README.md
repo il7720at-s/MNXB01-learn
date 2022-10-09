@@ -3,7 +3,7 @@
 Once upon a time,  
 there was a **beautiful** _princess_
 
-just to make the rhyme,
+just to make the rhyme,  
 she was definitely fearless
 
 ```
